@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+    font-family: poppins;
+}
+.mv{
+color: #3A3A3A;
+font-size: 48px;
+font-family: Poppins;
+font-weight: 700;
+word-wrap: break-word
+
+}
+.dot{
+color: #FF408C;
+font-size: 48px;
+font-family: Poppins;
+font-weight: 700;
+word-wrap: break-word
+}
+#mv.container{
+    width:93px;
+    height:72px;
+}
+.name{
+color: #3A3A3A;
+font-size: 36px;
+font-family: Poppins;
+font-weight: 400;
+line-height: 47.52px;
+word-wrap: break-word
+}
+.job{
+color: #FF408C;
+font-size: 80px;
+font-family: Poppins;
+font-weight: 700;
+line-height: 105.60px;
+word-wrap: break-word
+}
+.origin{
+color: #000;
+font-size: 36px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 400;
+line-height: 132%;
+letter-spacing: -0.72px;
+}
+.contact-info{
+color: #3A3A3A;
+font-size: 16px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0.32px;
+}
