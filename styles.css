@@ -16,6 +16,10 @@ body{
     margin-right: 1606;
     border: 3px solid #31A8FF;
     box-shadow: #31A8FF;
+    max-width: 1000px;
+    max-height: 1000px;
+    padding-left: 16px;
+    padding-right: 16px;
    }    
 .mv{
     color: #3A3A3A;
@@ -36,33 +40,36 @@ body{
     }
 .name{
     color: #3A3A3A;
-    font-size: 36px;
-    font-family: Poppins;
-    font-style: normal;
-    font-weight: 50;
-    line-height: 132%;
-    letter-spacing: -0.72px;
-    }
-.job{
-    color: #FF408C;
-    font-size: 80px;
-    font-family: Poppins;
-    font-weight: 500;
-    line-height: 105.60px;
-    word-wrap: break-word;
-    }
-.origin{
-    color: #000;
-    font-size: 36px;
+    font-size: 25px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 400;
     line-height: 132%;
     letter-spacing: -0.72px;
     }
+.job{
+    color: #FF408C;
+    font-size: 40px;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: 132%;
+    letter-spacing: -1.6px;
+    font-style: normal;
+    margin-bottom: 10px;
+    }
+.origin{
+    color: #000;
+    font-size: 25px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132%;
+    letter-spacing: -0.72px;
+    margin-bottom: 10px;
+    }
 .contact-info{
     color: #000;
-    font-size: 16px;
+    font-size: 10px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
